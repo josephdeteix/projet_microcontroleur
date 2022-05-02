@@ -1,7 +1,5 @@
 
 /********************************************************
-   Affichage de la masse en grammes avec un module HX711
-   branché à l'Arduino.
    Nécessite le bibliothèque HX711 par Bodge:
    https://github.com/bogde/HX711
    Pour plus d'infos:
